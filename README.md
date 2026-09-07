@@ -155,27 +155,11 @@ I'm **Sahil Thosar**, an Engineering Student passionate about technology, progra
 
 <h2 align="center">🔥 GitHub Streak</h2>
 
-<br>
-
 <p align="center">
-  <picture>
-
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://streak-stats.demolab.com?user=sahilthosar35&theme=transparent&hide_border=true&border_radius=12&ring=FF69B4&fire=FF69B4&currStreakLabel=EF93C4&sideLabels=F8BBD0&dates=F8BBD0&currStreakNum=FFFFFF&sideNums=FFFFFF"
-    />
-
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://streak-stats.demolab.com?user=sahilthosar35&theme=transparent&hide_border=true&border_radius=12&ring=FF69B4&fire=FF69B4&currStreakLabel=EF93C4&sideLabels=C85A92&dates=A15B7D&currStreakNum=333333&sideNums=333333"
-    />
-
-    <img
-      src="https://streak-stats.demolab.com?user=sahilthosar35&theme=transparent&hide_border=true&ring=FF69B4&fire=FF69B4&currStreakLabel=EF93C4"
-      alt="GitHub Streak"
-    />
-
-  </picture>
+  <img
+    src="https://streak-stats.demolab.com?user=sahilthosar35&theme=transparent&hide_border=true&border_radius=12&ring=FF69B4&fire=FF69B4&currStreakLabel=EF93C4&sideLabels=F8BBD0&dates=F8BBD0&currStreakNum=FFFFFF&sideNums=FFFFFF"
+    alt="Sahil Thosar GitHub Streak"
+  />
 </p>
 
 <br>
@@ -205,29 +189,11 @@ I'm **Sahil Thosar**, an Engineering Student passionate about technology, progra
   <sub>Watch the snake eat my contributions ✨</sub>
 </p>
 
-<br>
-
 <p align="center">
-
-  <picture>
-
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/sahilthosar35/sahilthosar35/output/github-contribution-grid-snake-dark.svg"
-    />
-
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/sahilthosar35/sahilthosar35/output/github-contribution-grid-snake.svg"
-    />
-
-    <img
-      src="https://raw.githubusercontent.com/sahilthosar35/sahilthosar35/output/github-contribution-grid-snake.svg"
-      alt="GitHub Contribution Snake"
-    />
-
-  </picture>
-
+  <img
+    src="https://raw.githubusercontent.com/sahilthosar35/sahilthosar35/output/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake"
+  />
 </p>
 
 <!--
