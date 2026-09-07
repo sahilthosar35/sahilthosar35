@@ -92,11 +92,7 @@ I'm **Sahil Thosar**, an Engineering Student passionate about technology, progra
 
 <td width="35%" align="center" valign="middle">
 
-<img
-  src="./assets/sahil-thosar.jpg"
-  width="260"
-  alt="Sahil Thosar"
-/>
+<img src="./assets/1000006025.jpg" width="260" alt="Sahil Thosar" />
 
 <br>
 
@@ -141,16 +137,17 @@ I'm **Sahil Thosar**, an Engineering Student passionate about technology, progra
 <p align="center">
   <img
     width="49%"
-    src="https://github-readme-stats.vercel.app/api?username=sahilthosar35&show_icons=true&hide_border=true&title_color=FF69B4&icon_color=EF93C4&text_color=F8BBD0&bg_color=00000000"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sahilthosar35&theme=radical"
     alt="Sahil's GitHub Stats"
   />
 
   <img
     width="49%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilthosar35&layout=compact&hide_border=true&title_color=FF69B4&text_color=F8BBD0&bg_color=00000000"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sahilthosar35&theme=radical"
     alt="Sahil's Most Used Languages"
   />
 </p>
+
 
 <br>
 
@@ -193,12 +190,11 @@ I'm **Sahil Thosar**, an Engineering Student passionate about technology, progra
   <a href="https://github.com/sahilthosar35">
     <img
       width="95%"
-      src="https://github-readme-activity-graph.vercel.app/graph?username=sahilthosar35&bg_color=00000000&color=EF93C4&line=FF69B4&point=F8BBD0&area=true&area_color=EF93C4&hide_border=true&radius=12"
-      alt="Sahil Thosar Activity Graph"
+      src="https://ghchart.rshah.org/FF69B4/sahilthosar35"
+      alt="Sahil Thosar Contribution Graph"
     />
   </a>
 </p>
-
 <br>
 
 <!-- ==================== CONTRIBUTION SNAKE ==================== -->
